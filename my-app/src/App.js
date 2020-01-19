@@ -1,7 +1,9 @@
 import React from 'react';
 import './App.css';
 
+
 /* function HelloWorld(prop) {
+
   return (
     <div id="hello">
       <h3>{prop.subittulo}</h3>
@@ -48,5 +50,6 @@ class HelloWorld extends React.Component {
     }
   }
 }
+
 
 export default App;
