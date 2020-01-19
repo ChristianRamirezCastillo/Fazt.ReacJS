@@ -1,6 +1,6 @@
 # **Reactjs - Curso Práctico**
-**Youtube:** Jap Software (https://www.youtube.com/watch?v=zIY87vU33aA&t=1009s)
+**Youtube:** Fazt (https://www.youtube.com/watch?v=zIY87vU33aA&t=1009s)
 
-###Instalacion:
+### Instalacion:
 
 **NodeJS:** https://nodejs.org/es/
